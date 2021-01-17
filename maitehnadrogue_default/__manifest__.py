@@ -1,8 +1,8 @@
 {
-    'name': 'maitehnadrogue',
+    'name': 'maitehnmaritimo',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto maitehnadrogue",
+    'summary': "Proyecto maitehnmaritimo",
     'author': 'Sdeh',
     'depends': [
         'base',
@@ -17,7 +17,7 @@
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
-    'dbfilter': 'adrogue_18-11-2020',
+    'dbfilter': 'maritimo.maitehn',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/regaby/cl-obladi.git',
+        'https://github.com/sistemasdehudson/cl-maitehnmaritimo',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
