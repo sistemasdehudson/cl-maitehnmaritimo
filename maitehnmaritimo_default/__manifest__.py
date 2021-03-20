@@ -32,6 +32,7 @@
     'git-repos': [
         'https://github.com/sistemasdehudson/cl-maitehnmaritimo',
         'https://github.com/regaby/odoo-custom.git',
+        'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
         ## localización
