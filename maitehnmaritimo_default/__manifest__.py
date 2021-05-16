@@ -60,7 +60,7 @@
         ##
         'https://github.com/sistemasdehudson/sdehposaddons.git',
         ##
-        'https://github.com/zfis/zero_kitchen',
+        'https://github.com/sistemasdehudson/zero_kitchen',
     ],
 
     'docker-images': [
