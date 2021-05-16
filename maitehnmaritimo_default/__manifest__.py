@@ -57,8 +57,10 @@
         'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
-         ##
+        ##
         'https://github.com/sistemasdehudson/sdehposaddons.git',
+        ##
+        'https://github.com/zfis/zero_kitchen',
     ],
 
     'docker-images': [
