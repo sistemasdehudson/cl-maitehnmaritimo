@@ -62,8 +62,10 @@
         'https://github.com/sistemasdehudson/sdehposaddons.git',
         ##
         'https://github.com/sistemasdehudson/zero_kitchen',
-        'https://github.com/OCA/pos/tree/13.0',
-        'https://github.com/oca/report-print-send/tree/13.0',
+        ##'https://github.com/OCA/pos/tree/13.0',
+        'https://github.com/OCA/pos.git',
+        ##'https://github.com/oca/report-print-send/tree/13.0',
+        'https://github.com/OCA/report-print-send.git',
     ],
 
     'docker-images': [
